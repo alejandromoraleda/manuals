@@ -1,27 +1,48 @@
-## Principais características
+## Características principais
 
-* Smartphone com sistema ANDROID#trade# 4.4 optimizado.
-* Ecrã táctil capacitivo IPS OGS de 5" IPS (HD - 1280x720p).
-* Processador Quad Core ARM Cortex A53 1.2 GHz e GPU Adreno 304.
-* Conexão 3G para desfrutar da Internet onde quer que seja necessário.
-* Conexão Wi-Fi (802.11 b/g/n): permite a mais rápida conexão à Internet através do ponto de acesso Wi-Fi.
-* Função GPS: A navegação via satélite mais precisa e confiável.
-* Conexão Bluetooth 4.0 para auscultadores, altifalantes e outros dispositivos NFC e Bluetooth.
-* Dupla entrada para cartões micro-SIM.
-* 1GB RAM.
-* 8GB de memória interna que permite-lhe armazenar até 32 horas de vídeo ou 4.000 canções.
-* Câmera frontal integrada de 5.0 Mpx BSI+ com ângulo de abertura de 88º e flash de LED.
-* Câmera integrada de 13.0 Mpx com autofocus e flash LED.
-* Função USB-OTG para um fácil acesso à memória do smartphone desde o computador (cabo incluído).
-* Altifalante integrado.
-* 2 Microfones omnidireccionais integrados.
-* Ecrã de movimento (acelerómetro).
-* Ecrã com ajuste automático de brilho.
-* Sensor de proximidade.
-* LED de notificações.
-* Aplicações instaladas: navegador de Internet, gestor de correio electrónico, aplicações para reprodução de música / vídeos / fotos, rádio FM, alarme e calculadora.
-* Permite a instalação de milhares de aplicações e jogos disponíveis para o sistema operativo ANDROID#trade#.
-* Frequências de operação: GSM 850/900/1800/1900 MHz + WCDMA 900/2100 MHz.
-* Autonomia: até 260 horas em standby e 15 horas de conversação.
-* Capacidade da bateria: 2.200mAh.
-* Medição SAR: 0,81 (W/Kg) ao nível de cabeça e corpo (a 10mm de distância).
+ECRÃ
+- Ecrã táctil de 5" com revestimento oleofóbico
+- Tecnologia IPS
+- Resolução HD (1280 x 720 pixels)
+
+PROCESSADOR
+- Processador Quad Core ARM Cortex A7 1.3 GHz 
+- Processador gráfico Mali-400 MP integrado
+
+SISTEMA OPERATIVO
+-  Android#trade# 5.1 Lollipop
+
+CÂMARAS
+- Câmara traseira de 5 MP com auto foco e flash LED
+- Câmara frontal de 2 MP
+
+MEMÓRIA
+- 1 GB de RAM DDR3
+- 8 GB de memória interna expansível através de cartões microSD-HC/XC (até 128 GB mais)
+
+CONECTIVIDADE
+- 3G:  900/2100 MHz (BANDAS WCDMA VIII / I)
+- 2G: 850/900/1800/1900 MHz (BANDAS GSM)
+- Bluetooth® 4.0
+- WI-FI 802.11 b/g/n
+- A-GPS
+
+SISTEMAS DE LIGAÇÃO
+- Dual microSIM
+- Porta microUSB 2.0
+- Áudio Jack de 3,5 milímetros com padrão CTIA
+
+BATERIA:
+- Capacidade da bateria: Li-Po, 4000 mAh
+- Quick charge
+- Adaptador de corrente AC/DC (Europlug) Entrada: 100-240 VAC 50-60 Hz. Saída: 5V 1,5A
+- Autonomia: até 720 horas em standby e até 28 horas de conversa.
+
+OUTROS:
+- Sensor de movimento (acelerómetro)
+- Sensor de proximidade
+- Sensor de luminosidade
+- Altifalante integrado
+- Microfone omnidireccional integrado
+- Rádio FM de 87.5 até 108 MHz com estações prédefinidas
+- Exposição SAR: 0,124 (W/Kg) ao nível de cabeça e 0,237 (W/Kg) ao nível de corpo (a uma distância de 10 mm)

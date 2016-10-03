@@ -1,6 +1,6 @@
 ## <quick_guide> Apresentação geral
 
-![Imagen2](http://static.energysistem.com/images/manuals/42499/566949a653254.jpg)
+![Imagen2](http://static.energysistem.com/images/manuals/42499/56de8f09a386b.jpg)
 
 1. Câmara traseira
 2. Flash traseiro
@@ -19,6 +19,5 @@
 15. Slot do cartão microSD
 16. Slot do cartão microSIM 2
 17. Número de série e IMEI
-
-
+ 
 </quick_guide>

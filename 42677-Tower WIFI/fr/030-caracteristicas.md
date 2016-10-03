@@ -1,0 +1,26 @@
+## Caractéristiques techniques
+
+- Système de son 2.1 avec puissance réelle de 60 W. (1 x subwoofer de 4"et 30 W + 2 x full range de 4" et 10 W + 1 x tweeter de 1,5" et 10 W).
+- Réponse en fréquence : 20Hz-20KHz.
+- Connexion Wi-Fi :
+ - Standard : 802.11 b/g/n.
+  -	Gamme de fréquences 2.412GHz-2.484GHz.
+  -	Protocoles de sécurité compatibles : WPA-PSK.
+  -	Types de chiffrement : AES. 
+  -	Systèmes audio sans fil compatibles : Airplay et DLNA.
+- Connexion Bluetooth V.4.0 : 
+  - Version 4.0 + EDR (Enhanced Data Rate).
+  - Classe II. Portée jusqu'à 10 mètres. 
+  - Protocoles Bluetooth® : A2DP ; AVRCP. 
+  - Fréquence : 2.4GHz bande ISM.
+- Décodeur SD : il lit les fichiers MP3/WAV depuis une mémoire flash SD avec une capacité maximale de 64 Go. 
+- Décodeur USB : il lit les fichiers MP3/WAV depuis une mémoire flash USB avec une capacité maximale de 64 Go. 
+- 5 modes d'égalisation numérique prédéfinis pour les modes USB et SD. 
+- Égaliseur analogique 2 bandes.
+- Boîtier en bois. 
+- Télécommande avec portée maximale de 10 mètres. 
+- Entrée auxiliaire 3,5 mm
+- Courant de sortie des ports USB de charge : 5V 2A  
+- Panneau supérieur rétroéclairé et tactile. 
+- Display de segments à LED.  
+- Alimentation : 120-240 V / 50-60 Hz.
